@@ -3,7 +3,7 @@ package com.sample;
 import java.text.SimpleDateFormat;
 import java.util.Date;
 
-import powergen.actions.J_CalculateDateInDays;
+
 
 public class TestMendixDate {
 	
